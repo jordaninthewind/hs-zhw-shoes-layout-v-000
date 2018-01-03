@@ -34,7 +34,18 @@ section#details div {
   margin: 2%;
   float: right;
   display: block;
-  width: 33%;
+  width: 30%;
 }
-.col-2-left
-.col-1
+
+.col-2-left {
+  margin: 2%;
+  float: left;
+  display: block;
+  width: 60%;
+}
+.col-1 {
+  margin: 2%;
+  float: left;
+  display: block;
+  width: 30%;
+}
