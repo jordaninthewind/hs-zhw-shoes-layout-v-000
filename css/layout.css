@@ -44,7 +44,7 @@ section#details div {
 
 .col-1 {
   float: left;
-  display: inline;
+  display: block;
   width: 30%;
 }
 
