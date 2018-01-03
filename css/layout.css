@@ -22,6 +22,19 @@
   clear: both;
 }
 
-/* Posititoning Classes */
+/* Positioning Classes */
 
+section#details div {
+  margin: 0 auto;
+  float: left;
+  display: inline-block;
+}
 
+.col-1-right {
+  margin: 2%;
+  float: right;
+  display: block;
+  
+}
+.col-2-left
+.col-1
