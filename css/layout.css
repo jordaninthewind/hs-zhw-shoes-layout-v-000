@@ -31,14 +31,12 @@ section#details div {
 }
 
 .col-1-right {
-  
   float: right;
   display: block;
   width: 30%;
 }
 
 .col-2-left {
-  margin: 2%;
   float: left;
   display: block;
   width: 60%;
