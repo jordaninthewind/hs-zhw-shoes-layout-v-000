@@ -33,13 +33,13 @@ section#details div {
 .col-1-right {
   float: right;
   display: block;
-  width: 30%;
+  width: 33%;
 }
 
 .col-2-left {
   float: left;
   display: block;
-  width: 60%;
+  width: 66%;
 }
 
 .col-1 {
